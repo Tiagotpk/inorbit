@@ -14,4 +14,4 @@ cd backend
 npm run dev
 
 ## Tecnologias utilizadas
-React (Vite), NodeJs
+React (Vite), NodeJs, Docker e PostgreSQL
